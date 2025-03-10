@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
 import BarChart from './components/BarChart';
-import './App.css';
+import './index.css';
 
 // InfoBoksin propsien tyyppien määritys
 interface InfoBoksiProps {
